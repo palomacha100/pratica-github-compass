@@ -1,6 +1,7 @@
 # Prática sobre comandos Github - Trilha React da Compass
 
 ## Atividade
+
 Após a conclusão dos estudos teste seu conhecimento realizando as seguintes tarefas:
 
 1. Criar uma conta grátis no GitHub (caso não possua);
